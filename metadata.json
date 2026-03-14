@@ -1,0 +1,8 @@
+{
+  "name": "The Party Den",
+  "description": "Hourly party house booking website with image gallery and slot management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
