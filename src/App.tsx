@@ -243,7 +243,7 @@ export default function App() {
                   className="text-7xl md:text-9xl font-black tracking-tighter uppercase leading-[0.85] mb-8"
                 >
                   The Party <br />
-                  <span className="text-orange-500">nag</span>
+                  <span className="text-orange-500">Den</span>
                 </motion.h1>
 
                 <motion.div 
