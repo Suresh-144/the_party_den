@@ -232,7 +232,7 @@ export default function App() {
                   className="mb-6 flex items-center justify-center gap-4"
                 >
                   <span className="h-[1px] w-12 bg-orange-500" />
-                  <span className="text-orange-500 font-mono tracking-[0.3em] text-sm uppercase">Magic Moments</span>
+                  <span className="text-orange-500 font-mono tracking-[0.3em] text-sm uppercase">Magic Moments party</span>
                   <span className="h-[1px] w-12 bg-orange-500" />
                 </motion.div>
                 
@@ -243,7 +243,7 @@ export default function App() {
                   className="text-7xl md:text-9xl font-black tracking-tighter uppercase leading-[0.85] mb-8"
                 >
                   The Party <br />
-                  <span className="text-orange-500">Den</span>
+                  <span className="text-orange-500">nag</span>
                 </motion.h1>
 
                 <motion.div 
