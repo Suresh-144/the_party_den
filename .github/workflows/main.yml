@@ -54,4 +54,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/the-party-den:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/the-party-den:v1.0.1
